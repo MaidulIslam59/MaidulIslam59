@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Maidul Islam (Rifat)</h1>
+<h1 align="center">Hi, I'm Md. Maidul Islam (Rifat)</h1>
 <h3 align="center">A passionate Software Engineer (Frontend) from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maidulislam59&label=Profile%20views&color=0e75b6&style=flat" alt="maidulislam59" /> </p>
