@@ -1,4 +1,4 @@
-<img src="images/cover.png" alt="Md. Maidul Islam">
+
 
 # Hi, I'm Md. Maidul Islam (Rifat)! 
 
