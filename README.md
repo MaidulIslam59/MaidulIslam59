@@ -45,14 +45,7 @@ My favorite technologies include **React**, **JavaScript**, and **Tailwind CSS**
 
 ---
 
-<h2 align="center">Open Source Contributions</h2>
 
-<div align="center">
-
-[![MetrocemSw](https://github-readme-stats.vercel.app/api/pin/?username=maidulislam59&repo=MetrocemSw&bg_color=1d1f21&title_color=8FFF86&icon_color=79ff97&text_color=dcdcdc)](https://github.com/maidulislam59/MetrocemSw)
-[![SingleSlider](https://github-readme-stats.vercel.app/api/pin/?username=maidulislam59&repo=SingleSlider&bg_color=1d1f21&title_color=8FFF86&icon_color=79ff97&text_color=dcdcdc)](https://github.com/maidulislam59/SingleSlider)
-
-</div>
 
 ---
 
