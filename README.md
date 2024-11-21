@@ -1,13 +1,4 @@
 
-
-# Hi, I'm Md. Maidul Islam (Rifat)! 
-
-I'm a passionate **Frontend Software Engineer** dedicated to creating clean, user-friendly, and innovative web applications.
-
-I focus on crafting scalable, responsive, and engaging user interfaces. My expertise lies in blending **design** with **functionality** to deliver outstanding digital experiences. With a keen eye on web performance and accessibility, I strive for technical excellence in every project.
-
-My favorite technologies include **React**, **JavaScript**, and **Tailwind CSS**. While I primarily work on the frontend, I have experience managing the complete development lifecycle, from prototyping to deployment.
-
 <h2 align="center">My Online Presence</h2>
 
 <div align="center">
@@ -24,13 +15,17 @@ My favorite technologies include **React**, **JavaScript**, and **Tailwind CSS**
 
 <div align="center">
 
-![](https://img.shields.io/badge/Code-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/Code-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Code-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![](https://img.shields.io/badge/Code-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Tools-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Code-HTML5-0077B5?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Code-CSS3-0077B5?style=flat-square&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Code-JavaScript-0077B5?style=flat-square&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Code-React-0077B5?style=flat-square&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Code-Tailwind_CSS-0077B5?style=flat-square&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Code-SCSS-0077B5?style=flat-square&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/Code-Next.js-0077B5?style=flat-square&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/Code-Material_UI-0077B5?style=flat-square&logo=mui&logoColor=white)
+![](https://img.shields.io/badge/Code-shadcn-0077B5?style=flat-square&logo=radix&logoColor=white)
+![](https://img.shields.io/badge/Tools-Git-0077B5?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Tools-VS_Code-0077B5?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
