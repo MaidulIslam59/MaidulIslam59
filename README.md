@@ -1,6 +1,6 @@
 # Hi, I'm Md. Maidul Islam (Rifat)! 
 
-I'm a passionate **Frontend Software Engineer** dedicated to creating clean, user-friendly, and innovative web applications.
+I'm a passionate **Jr. Software Engineer(Frontend)** dedicated to creating clean, user-friendly, and innovative web applications.
 
 I focus on crafting scalable, responsive, and engaging user interfaces. My expertise lies in blending **design** with **functionality** to deliver outstanding digital experiences. With a keen eye on web performance and accessibility, I strive for technical excellence in every project.
 
