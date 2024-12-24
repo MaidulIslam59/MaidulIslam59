@@ -43,7 +43,8 @@ My favorite technologies include **React**, **JavaScript**, and **Tailwind CSS**
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maidulislam59&count_private=true&show_icons=true&bg_color=1d1f21&title_color=8FFF86&icon_color=79ff97&text_color=dcdcdc" alt="Md. Maidul Islam's GitHub Stats"> -->
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maidulislam59&count_private=true&show_icons=true&bg_color=1d1f21&title_color=8FFF86&icon_color=79ff97&text_color=dcdcdc" alt="stats graph"  />
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maidulislam59&show_icons=true&bg_color=1d1f21&title_color=8FFF86&icon_color=79ff97&text_color=dcdcdc&layout=compact&langs_count=6" alt="Md. Maidul Islam's Top Languages"> -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&bg_color=1d1f21&title_color=8FFF86&icon_color=79ff97&text_color=dcdcdc&username=maidulislam59&hide=python,hack" height="200" alt="Md. Maidul Islam's Top Languages"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=maidulislam59&hide=python,hack" height="200" alt="languages graph"  />
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&bg_color=1d1f21&title_color=8FFF86&icon_color=79ff97&text_color=dcdcdc&username=maidulislam59&hide=python,hack" height="200" alt="Md. Maidul Islam's Top Languages"  /> -->
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maidulislam59&count_private=true&show_icons=true&bg_color=1d1f21&title_color=8FFF86&icon_color=79ff97&text_color=dcdcdc" width="1024"/>
 </div>
 
