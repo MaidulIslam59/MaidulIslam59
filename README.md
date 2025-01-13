@@ -26,7 +26,6 @@ My favorite technologies include **React**, **JavaScript**, and **Tailwind CSS**
 ![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Code-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/Code-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Code-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/Code-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/Code-Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
 ![](https://img.shields.io/badge/Code-shadcn-000000?style=flat-square&logo=radix&logoColor=white)
@@ -47,11 +46,12 @@ My favorite technologies include **React**, **JavaScript**, and **Tailwind CSS**
 
 ---
 
-
+<!-- ![](https://img.shields.io/badge/Code-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+ -->
 
 ---
 
 ### 🔥 Fun Facts
-- 🌱 Currently exploring **Material UI** and **Next.js** for enhanced UI/UX design.
+- 🌱 Currently exploring **Material UI** and **Next.js**.
 - 🛠️ Working on multiple dynamic and responsive components for various projects.
 - 💬 Feel free to **connect** with me for collaboration or knowledge sharing!
