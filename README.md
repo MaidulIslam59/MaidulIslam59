@@ -39,9 +39,9 @@ My favorite technologies include **React**, **JavaScript**, and **Tailwind CSS**
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maidulislam59&count_private=true&show_icons=true&bg_color=1d1f21&title_color=8FFF86&icon_color=79ff97&text_color=dcdcdc" alt="Md. Maidul Islam's GitHub Stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maidulislam59&show_icons=true&bg_color=1d1f21&title_color=8FFF86&icon_color=79ff97&text_color=dcdcdc&layout=compact&langs_count=6" alt="Md. Maidul Islam's Top Languages">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maidulislam59&count_private=true&show_icons=true&bg_color=1d1f21&title_color=8FFF86&icon_color=79ff97&text_color=dcdcdc" width="900" height="200em"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=maidulislam59&count_private=true&show_icons=true&bg_color=1d1f21&title_color=8FFF86&icon_color=79ff97&text_color=dcdcdc" alt="Md. Maidul Islam's GitHub Stats">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maidulislam59&show_icons=true&bg_color=1d1f21&title_color=8FFF86&icon_color=79ff97&text_color=dcdcdc&layout=compact&langs_count=6" alt="Md. Maidul Islam's Top Languages">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maidulislam59&count_private=true&show_icons=true&bg_color=1d1f21&title_color=8FFF86&icon_color=79ff97&text_color=dcdcdc" width="900" height="190em"/>
 </div>
 
 ---
