@@ -4,7 +4,7 @@ I'm a passionate **Jr. Software Engineer(Frontend)** dedicated to creating clean
 
 I focus on crafting scalable, responsive, and engaging user interfaces. My expertise lies in blending **design** with **functionality** to deliver outstanding digital experiences. With a keen eye on web performance and accessibility, I strive for technical excellence in every project.
 
-My favorite technologies include **React**, **JavaScript**, and **Tailwind CSS**. While I primarily work on the frontend, I have experience managing the complete development lifecycle, from prototyping to deployment.
+My favorite technologies include **JavaScript**, **React**, **Next.js**, **Tailwind CSS** and **Material UI**. While I primarily work on the frontend, I have experience managing the complete development lifecycle, from prototyping to deployment.
 <h2 align="center">My Online Presence</h2>
 
 <div align="center">
@@ -52,6 +52,6 @@ My favorite technologies include **React**, **JavaScript**, and **Tailwind CSS**
 ---
 
 ### 🔥 Fun Facts
-- 🌱 Currently exploring **Material UI** and **Next.js**.
+- 🌱 Currently exploring **Ant Design**.
 - 🛠️ Working on multiple dynamic and responsive components for various projects.
 - 💬 Feel free to **connect** with me for collaboration or knowledge sharing!
